@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b7l2ojm4cp0p26q5?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs-object)
+
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
